@@ -1,0 +1,27 @@
+body{
+	color: pink;
+	font-family: Arial;
+}
+
+p{
+	text-align: left;
+}
+
+h1{
+	text-align: center;
+	color: pink;
+}
+
+.banana{
+	text-align: left;
+}
+h2{
+	color: yellow;
+}
+
+h3{
+	color: green;
+}
+p{
+	color: purple;
+}
