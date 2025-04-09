@@ -1,122 +1,86 @@
-body{
-background:#15FAFO;
-color:#333;
-padding:20px
-	font-family: Arial;
+body {
+  background: blue;
+  color: #333;
+  padding: 20px;
+  font-family: Algerian, sans-serif;
 }
 
-p{
-	text-align: left;
+p {
+  color: black;
+  text-align: left;
 }
 
-h1{
-	text-align: center;
-	color: pink;
+h1 {
+  text-align: center;
+  color: pink;
 }
 
-.banana{
-	text-align: left;
-}
-h2{
-	color: black;
+h2 {
+  color: black;
 }
 
-h3{
-	color: green;
-}
-p{
-	color: black;
-}
-h4{
-	color: blue;
-}
-h5{
-	color: red;
-}
-h6{
-	color: red;
-
-}
-p{
-	color: black;
-}
-h7{
-	color: black;
-}
-p{
-	color: green
-table,th,td{border: 1px solid black;
-width:60%;
+h3 {
+  color: green;
 }
 
-nav {text-align: center;
+h4 {
+  color: blue;
+}
 
-justify-content: center;
+h5 {
+  color: red;
+}
 
-padding:10;
+h6 {
+  color: red;
+}
 
-margin:10;
+table, th, td {
+  border: 1px solid black;
+  width: 60%;
+}
 
-font-weight:bold;
+nav {
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
 }
-.project{
-	background: white;
-	display:flex; 
-	gap:15px;
-	padding:15px;
+
+.project {
+  background: pink;
+  display: flex;
+  gap: 15px;
+  padding: 15px;
 }
-.project h2{
-	color:yellow;
-margin-bottom:8px ;
+
+.project h2 {
+  color: yellow;
+  margin-bottom: 8px;
 }
-.project p{
-	color: green;
-	margin-bottom:10px ;
-.project-content{
-	flex :1;
+
+.project p {
+  color: green;
+  margin-bottom: 10px;
 }
-.project-image
-{
-width: 100px;	
-height: 100px;
-border-radius:10px ;
+
+.project-content {
+  flex: 1;
 }
-.project-link
-{
-background:color: purple ;	
-color:red;
-border-radius: 5px;
-display:inline-block ;
-}	 
+
+.project-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
+
+.project-link {
+  background-color: green;
+  color: red;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px;
+}
+
 font-size: 14px;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
