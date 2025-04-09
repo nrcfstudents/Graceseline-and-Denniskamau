@@ -1,5 +1,7 @@
 body{
-	color: pink;
+background:#15FAFO;
+color:#333;
+padding:20px
 	font-family: Arial;
 }
 
@@ -23,7 +25,7 @@ h3{
 	color: green;
 }
 p{
-	color: blackN;
+	color: black;
 }
 h4{
 	color: blue;
@@ -43,15 +45,6 @@ h7{
 }
 p{
 	color: green
-}
-
-
-
-
-
-
-
-
 table,th,td{border: 1px solid black;
 width:60%;
 }
@@ -66,8 +59,36 @@ margin:10;
 
 font-weight:bold;
 }
-
-
+.project{
+	background: white;
+	display:flex; 
+	gap:15px;
+	padding:15px;
+}
+.project h2{
+	color:yellow;
+margin-bottom:8px ;
+}
+.project p{
+	color: green;
+	margin-bottom:10px ;
+.project-content{
+	flex :1;
+}
+.project-image
+{
+width: 100px;	
+height: 100px;
+border-radius:10px ;
+}
+.project-link
+{
+background:color: purple ;	
+color:red;
+border-radius: 5px;
+display:inline-block ;
+}	 
+font-size: 14px;
 
 
 
